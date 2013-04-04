@@ -7,4 +7,7 @@ TEST TEXT....blah blah blah
 This is a change to the file
 
 
-This is Chris' second change
+Chris' second line
+=======
+Liz's additional line of code
+
