@@ -1,6 +1,6 @@
 New file 
 ===============
-
+More changes to the file
 
 TEST TEXT....blah blah blah
 
